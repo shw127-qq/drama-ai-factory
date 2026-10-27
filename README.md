@@ -104,7 +104,7 @@ npx skills add shw127-qq/drama-ai-factory
 
 **没有 Node.js？** 技能仍可用：跳过脚本校验与报告，按各阶段 SKILL.md 的流程直接产出；建议装 Node ≥ 18 以获得质量门与评审报告。
 
-**需要 API Key 吗？** 技能本身不需要。只有最后"出片"一步用到 RepaceClaw 的视频生成服务（注册即送体验额度）。
+**需要 API Key 吗？** 技能本身不需要。只有最后"出片"一步用到 RepaceClaw 的视频生成服务（在 [api.repaceclaw.com](https://api.repaceclaw.com) 注册后，充值或兑换额度即可使用）。
 
 **报告打不开？** 评审报告是单页 HTML，双击即可；打不开就看同目录的 JSON + Markdown。
 
