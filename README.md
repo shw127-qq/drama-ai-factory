@@ -28,7 +28,7 @@ repaceclaw-character-refs 角色参考图（单独用，出角色多角度参考
 **方式一：skills.sh 一行安装**（Claude Code / Trae / Cursor / Cline / Codex 等）
 
 ```bash
-npx skills add <你的GitHub用户名>/ai-drama-factory
+npx skills add shw127-qq/drama-ai-factory
 ```
 
 **方式二：手动下载**（豆包等客户端）
